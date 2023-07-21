@@ -1,0 +1,36 @@
+.Navbar{
+    width: 80%;
+    height: 80px;
+    background-color: white;
+    border-radius: 40px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+
+    .Items {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        
+        .Item{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            padding: 20px;
+            font-size: large;
+            font-weight: bold;
+            cursor: pointer;
+            span{
+                font-weight: 100;
+                padding: 5px;
+            }
+            
+        }
+    }
+
+}
