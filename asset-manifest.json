@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/koshbooks_v2.0/static/css/main.ac05194e.css",
+    "main.js": "/koshbooks_v2.0/static/js/main.b6b73996.js",
+    "index.html": "/koshbooks_v2.0/index.html",
+    "main.ac05194e.css.map": "/koshbooks_v2.0/static/css/main.ac05194e.css.map",
+    "main.b6b73996.js.map": "/koshbooks_v2.0/static/js/main.b6b73996.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac05194e.css",
+    "static/js/main.b6b73996.js"
+  ]
+}
